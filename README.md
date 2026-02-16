@@ -99,8 +99,8 @@ Download the .pbix file
 Open in Power BI Desktop
 
 Interact with filters and visuals
- Screenshots of Dashboard(https://github.com/shailajasingh12/Obesity-Data-Analysis-Power-BI-Dashboard/blob/main/Glimpse%20of%20Dashboard%20Part-1.png)
-
+ Screenshots of Dashboard ![Dashboard Preview](https://github.com/shailajasingh12/Obesity-Data-Analysis-Power-BI-Dashboard/blob/main/Glimpse%20of%20Dashboard%20Part-1.png)
+ Screenshots of Dashboard ![Dashboard Preview](https://github.com/shailajasingh12/Obesity-Data-Analysis-Power-BI-Dashboard/blob/main/Glimpse%20of%20Dashboard%20Part-1.png)
 👨‍💻 Author
 
 Shaiaja Singh
